@@ -188,7 +188,7 @@ button {
             rgba(7, 30, 21, 0.72),
             rgba(7, 30, 21, 0.72)
         ),
-        url("images/Amok-bg.png");
+        url("../images/Amok-bg.png");
 
     background-size: cover;
     background-position: center;
